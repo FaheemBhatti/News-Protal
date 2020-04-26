@@ -1,0 +1,6 @@
+{
+    "require": {
+        "abbe98/simple-pdo": "^2.1",
+        "mevdschee/php-crud-api": "dev-master"
+    }
+}
