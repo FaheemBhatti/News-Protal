@@ -23,7 +23,7 @@ $ sudo docker-compose up -d
 After following these steps now you have to open you web browser and type
 
 ```
- LocalHost:8001
+ localhost:8001
 ```
 
 Enjoy :)
